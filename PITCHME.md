@@ -2,8 +2,6 @@
 
 ---
 
-## PATTERN
-
 - Model, example.
 - A design, motif or decoration, especially formed from regular repeated elements.
 - A particular sequence of events, facts etc. which can be understood, used to predict the future, or seen to have a mathematical, geometric, statistical etc. relationship.
@@ -13,6 +11,8 @@
 ## DESIGN PATTERN
 
 ---
+
+![](assets/img/pattern1.png)
 
 ### Christopher Alexander (architecte, anthropologue)
 
@@ -26,16 +26,14 @@
 
 ---
 
-![](assets/img/pattern1.png)
-![](assets/img/pattern2.png)
-![](assets/img/pattern3.png)
+---
+
+- L'essai crée un langage de schéma, constitué de 253 _modèles (patterns)_
+- Chaque modèle décrit un problème, une illustration et une proposition de solution
 
 ---
 
----
-
-- L'essai propose un langage de schéma constitué de 253 _modèles (pattern)_
-- Chaque modèle décrit un problème, une illustration et propose une solution.
+## ![](assets/img/pattern_full.png)
 
 ---
 
