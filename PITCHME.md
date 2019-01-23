@@ -42,7 +42,7 @@ Un langage de schéma, constitué de 253 _modèles (patterns)_, chaque modèle d
 
 ---
 
-Description de 23 design patterns suivant un formalisme emprunté à celui de l'essai de Cristopher Alexander et consorts :
+Description de 23 design patterns :
 
 - Nom
 - Description du problème à résoudre
@@ -78,31 +78,49 @@ Considérons qu'un _pattern_ est un _anti-pattern_ si :
 
 ---
 
-- Input kludge: Failing to specify and implement the handling of possibly invalid input
+## Exemples
 
 ---
 
-- God object: Concentrating too many functions in a single part of the design (class)
+- Surcharge des interfaces
+
+La surcharge des interfaces fait référence à des pratiques courantes en conception d'interfaces utilisateurs Web, où plusieurs boutons ont le même effet.
 
 ---
 
-- Yo-yo problem: A structure (e.g., of inheritance) that is hard to understand due to excessive fragmentation
+- God object
+
+L'objet divin est un composant du logiciel assurant trop de fonctions essentielles. C'est le contraire de la méthode diviser pour régner.
 
 ---
 
-- Action at a distance: Unexpected interaction between widely separated parts of a system
+- Yo-yo problem
+
+A structure (e.g., of inheritance) that is hard to understand due to excessive fragmentation
 
 ---
 
-- Boat anchor: Retaining a part of a system that no longer has any use
+- Action at a distance
+
+Unexpected interaction between widely separated parts of a system
 
 ---
 
-- Cargo cult programming: Using patterns and methods without understanding why
+- Boat anchor
+
+Retaining a part of a system that no longer has any use
 
 ---
 
-- Caching failure: Forgetting to clear a cache that holds a negative result (error) after the error condition has been corrected
+- Cargo cult programming
+
+Using patterns and methods without understanding why
+
+---
+
+- Caching failure
+
+Forgetting to clear a cache that holds a negative result (error) after the error condition has been corrected
 
 ---
 
@@ -113,8 +131,12 @@ Also can refer to erasing the Stack trace during exception handling, which can h
 
 ---
 
-- Lava flow: Retaining undesirable (redundant or low-quality) code because removing it is too expensive or has unpredictable consequences
+- Lava flow
+
+Retaining undesirable (redundant or low-quality) code because removing it is too expensive or has unpredictable consequences
 
 ---
 
-- Loop-switch sequence: Encoding a set of sequential steps using a switch within a loop statement
+- Loop-switch sequence
+
+Encoding a set of sequential steps using a switch within a loop statement
