@@ -12,9 +12,9 @@
 
 ---
 
-![](assets/img/pattern1.png)
-
 ### Christopher Alexander (architecte, anthropologue)
+
+![](assets/img/pattern1.png)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## ![](assets/img/pattern_full.png)
+![](assets/img/pattern_full.png)
 
 ---
 
