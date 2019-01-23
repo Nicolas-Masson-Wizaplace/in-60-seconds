@@ -26,7 +26,11 @@
 
 ---
 
----?image=assets/images/pattern1.png&position=left&size=55% 100%
+![](assets/img/pattern1.png)
+![](assets/img/pattern2.png)
+![](assets/img/pattern3.png)
+
+---
 
 ---
 
